@@ -60,7 +60,7 @@
   top: 10px;
 }
 
-/* Toddler Animation */
+/* Toggler Animation */
 .menu-wrap .toggler:checked + .hamburger > div {
   transform: rotate(135deg);
 }
